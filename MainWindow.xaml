@@ -1,0 +1,54 @@
+﻿<Window x:Class="ManagementConsulting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ManagementConsulting"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="688" Width="1065">
+    <Grid>
+        <TabControl>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="TabItem">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+        <TabControl SelectionChanged="TabControl_SelectionChanged" MaxWidth="1065" MaxHeight="672">
+            <TabItem Header="Data Driven">
+                <Grid Background="#FFE5E5E5">
+                    <Image Margin="6,7,14,14" Stretch="Fill" Source="/ManagementConsultingI.jpg"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Strategic Frameworks">
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="Generic Business Case">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="9,4,24,15" Stretch="Fill" Source="/StrategicFramework.jpg"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Frameworks">
+                            <Grid Background="#FFE5E5E5">
+                                <TabControl>
+                                    <TabItem Header="M&amp;A Framework">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="13,16,10,15" Stretch="Fill" Source="/GrowthInnovationFramework.jpg"/>
+                                        </Grid>
+                                    </TabItem>
+                                    <TabItem Header="Operations Framework">
+                                        <Grid Background="#FFE5E5E5">
+                                            <Image Margin="11,7,15,4" Stretch="Fill" Source="/OperationsCaseFramework.jpg"/>
+                                        </Grid>
+                                    </TabItem>
+                                </TabControl>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

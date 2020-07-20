@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="GrowthInnovationFramework.jpg" />
+    <None Remove="ManagementConsultingI.jpg" />
+    <None Remove="OperationsCaseFramework.jpg" />
+    <None Remove="StrategicFramework.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="GrowthInnovationFramework.jpg" />
+    <Resource Include="ManagementConsultingI.jpg" />
+    <Resource Include="OperationsCaseFramework.jpg" />
+    <Resource Include="StrategicFramework.jpg" />
+  </ItemGroup>
+
+</Project>
