@@ -18,4 +18,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Operations Framework
 ![image](OperationsFramework.png)
 
-Advanced knowledge includes: https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/RealEstatePortfolioIdea.
+Advanced knowledge includes: https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/PowerandInfluentialSkills ,https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations and https://github.com/alpaddesai/RealEstatePortfolioIdea.
