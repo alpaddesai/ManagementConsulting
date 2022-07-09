@@ -21,4 +21,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-Advanced knowledge includes: https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations 
+Advanced knowledge includes: https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
