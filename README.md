@@ -18,9 +18,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Operations Framework
 ![image](OperationsFramework.png)
 
-## Ethics and Excellence
-![image](EthicsandExcellence.png)
-
 ## GMAT exam
 ![image](GMATImage5.jpg)
 
@@ -28,5 +25,8 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](admissionletter.jpg)
 
 https://www.rolex.com/
+
+## Ethics and Excellence
+![image](EthicsandExcellence.png)
 
 Advanced knowledge includes: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/RealEstatePortfolio, https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
