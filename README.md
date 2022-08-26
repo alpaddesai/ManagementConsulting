@@ -23,4 +23,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 https://www.rolex.com/
 
-Advanced knowledge includes: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/RealEstatePortfolio, https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
+Advanced knowledge includes: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/ExampleCaseStudies,  https://github.com/alpaddesai/Entrepreneurship, https://github.com/alpaddesai/Strategy, https://github.com/alpaddesai/RealEstatePortfolio, https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
