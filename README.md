@@ -29,4 +29,4 @@ https://www.rolex.com/
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
-Advanced knowledge includes: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
+Advanced knowledge includes: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel, https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
