@@ -21,7 +21,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## GMAT exam
 ![image](GMATImage5.jpg)
 
-## Admission Letter
+## Tier II Business School Admission Letter
 ![image](admissionletter.jpg)
 
 https://www.rolex.com/
