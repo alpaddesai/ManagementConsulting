@@ -24,8 +24,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Tier II Business School Admission Letter
 ![image](admissionletter.jpg)
 
-https://www.rolex.com/
-
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
