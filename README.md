@@ -27,4 +27,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge includes: https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/GraduateDegrees, https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel, https://github.com/alpaddesai/PowerandInfluentialSkills and https://github.com/alpaddesai/CreatingandLeadingEffectiveOrganizations. 
