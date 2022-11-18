@@ -21,6 +21,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## GMAT exam
 ![image](GMATImage5.jpg)
 
+## Exam
+![image](CFAExam.jpg)
+
 ## Tier II Business School Admission Letter
 ![image](admissionletter.jpg)
 
