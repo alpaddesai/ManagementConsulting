@@ -18,14 +18,8 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Operations Framework
 ![image](OperationsFramework.png)
 
-## GMAT exam
-![image](GMATImage5.jpg)
-
 ## Exam
 ![image](CFAExam.jpg)
-
-## Tier II Business School Admission Letter
-![image](admissionletter.jpg)
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
