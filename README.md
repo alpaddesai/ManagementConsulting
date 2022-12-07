@@ -18,8 +18,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Operations Framework
 ![image](OperationsFramework.png)
 
-## Exam
-![image](CFAExam.jpg)
+# Example Case Studies
 
 ## Ethics and Excellence
 ![image](EthicsandExcellence.png)
